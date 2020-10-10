@@ -1,0 +1,30 @@
+.card {
+    width: 50%;
+    top: 50%;
+    bottom: 50%;
+    left: 25%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cardImg {
+    height: 120px;
+    width: 160px;
+    margin-top: 25px;
+}
+
+.call {
+    margin-left: 1em;
+    margin-top: 5px;
+}
+
+.website {
+    margin-top: 5px;
+}
+
+.random-btn {
+    margin-left: 46%;
+    margin-bottom: 15px;
+}
